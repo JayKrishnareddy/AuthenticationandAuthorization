@@ -1,5 +1,4 @@
-## 	
-Using Dapper In ASP.NET Core Web API
+## Using Dapper In ASP.NET Core Web API
 
 # prerequisites
 - How does Dapper Work?
