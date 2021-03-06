@@ -11,3 +11,4 @@ If you want more about this, Do check out my Article 👇🏻
 
 [**C# Corner**](https://www.c-sharpcorner.com/article/authentication-authorization-using-net-core-web-api-using-jwt-token-and/ "C# Corner")
 
+[**Medium**](https://jaykrishnareddy.medium.com/authentication-and-authorization-in-net-core-web-api-using-jwt-token-and-swagger-ui-cc8d05aef03c/ "Medium")
