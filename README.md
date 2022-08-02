@@ -14,3 +14,5 @@ If you want more about this, Do check out my Article 👇🏻
 [**Medium**](https://jaykrishnareddy.medium.com/authentication-and-authorization-in-net-core-web-api-using-jwt-token-and-swagger-ui-cc8d05aef03c/ "Medium")
 
 [**HashNode**](https://jaykrishnareddy.hashnode.dev/authentication-and-authorization-in-net-core-web-api-using-jwt-token-and-swagger-ui "HashNode")
+
+If you liked the repo then kindly support it by giving it a star ⭐
